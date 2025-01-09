@@ -5,22 +5,22 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2024-10-07T10:49:11.352Z",
-    "end": "2024-10-07T10:49:12.709Z",
-    "duration": 1357
+    "start": "2025-01-09T21:30:32.247Z",
+    "end": "2025-01-09T21:30:32.750Z",
+    "duration": 503
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 5,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 15,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -52,14 +52,14 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 5,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 15,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
